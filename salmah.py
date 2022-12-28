@@ -1,0 +1,6 @@
+a = input()
+print('saal:',end = '')
+print(f'{a[0]}{a[1]}', end = '')
+print('')
+print('maah:', end = '')
+print(f'{a[2]}{a[3]}', end = '')
